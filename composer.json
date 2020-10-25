@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "SudokuCheck\\": "sudoku_check/",
+      "Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": "^7.4",
+    "phpunit/phpunit": "^9.4"
+  }
+}

@@ -1,0 +1,6 @@
+/.idea
+/vendor
+**/.DS_Store
+/sudoku-check.iml
+/*.cache
+.gitconfig
