@@ -25,7 +25,7 @@ When sending your solution, please describe the thought process of your solution
 Imagine we were working together and you were expected to solve this task in the time you stated, so be honest ;-)
 
 #### Solution
-**Functional tests started to be green in 1 hours 39 minutes - counting from creating notes on paper. After that I spend 
+**Functional tests started to be green in 1 hour 39 minutes - counting from creating notes on paper. After that I spend 
 about 30 minutes to clear code a bit with fixing it if any test fails after changes. I did not do all this stuff in 
 a rush.  
 You need PHP 7.4 and run `composer install` inside project folder if you want to run `tests`.**
